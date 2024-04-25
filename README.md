@@ -1,2 +1,2 @@
-<h1align center> this is my new repo</h1>
+<h1 align=center> this is my new repo</h1>
 This is new  Repo for Practice
